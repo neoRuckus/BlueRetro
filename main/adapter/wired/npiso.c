@@ -18,10 +18,10 @@
 #define VTAP_PAL_PIN 16
 #define VTAP_MODE_PIN 27
 
-#define P2_D1_PIN 25
-#define P2_D2_PIN 3
-#define P2_D3_PIN 16
-#define P2_D4_PIN 27
+#define P2_D1_PIN 19
+#define P2_D2_PIN 5
+#define P2_D3_PIN 21
+#define P2_D4_PIN 34
 
 #define P2_D1_MASK (1U << P2_D1_PIN)
 #define P2_D2_MASK (1U << P2_D2_PIN)
